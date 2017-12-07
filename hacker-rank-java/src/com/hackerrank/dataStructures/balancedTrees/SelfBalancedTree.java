@@ -1,4 +1,4 @@
-package com.hackerrank.challenges;
+package com.hackerrank.dataStructures.balancedTrees;
 
 public class SelfBalancedTree {
 	static Node insert(Node root, int val) {
